@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# DokiDokiDropDash - Anime Sorting Fun! 🌈🎮
 
-## Getting Started
+Welcome to DokiDokiDropDash, where anime passion meets sorting sensation! This is still a WIP, Updates coming soon!🚀✨
 
-First, run the development server:
+## What's DokiDokiDropDash?
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+DokiDokiDropDash is not just an app; it's a vibrant anime sorting adventure that lets you playfully organize your favorite characters into different categories. Whether you're a seasoned otaku or just starting your anime journey, get ready for a dose of sorting excitement like never before!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features 🌟
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+✅ **Anime Enthusiast's Playground:** Immerse yourself in the world of anime with a playful twist! Sort characters from Toradora and Love is War with drag-and-drop ease.
 
-To learn more about Next.js, take a look at the following resources:
+✅ **Top 10 Characters:** Discover the crème de la crème of anime characters! We've curated the top 10 characters for each anime just for you.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+✅ **Fireworks and Animations:** Witness the magic unfold! Enjoy stunning fireworks animations when you successfully arrange the characters. It's a visual feast for the anime-loving soul.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Tech Magic Behind the Scenes 🧙‍♂️
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Next.js & TypeScript:** The dynamic duo for creating modern and efficient web applications.
+- **React Beautiful DND:** Adding drag-and-drop magic to make anime sorting a breeze.
+- **AWS & Docker:** Powering up the app with the cloud and containerization for an enhanced experience.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Contribute 🚀
+
+Ready to sprinkle your magic on DokiDokiDropDash? I am open to contributions! Feel free to open issues, submit pull requests, or simply share your thoughts. Let's make anime sorting even more spectacular together!
+
+## Spread the Anime Love ❤️
+
+If DokiDokiDropDash brought a smile to your face, don't forget to share the love! Give it a star ⭐️ on GitHub, share with your fellow otaku, and let the sorting fun begin!
+
+Now, grab your sorting hat, and let's embark on a magical journey with DokiDokiDropDash! 🌈🎉
