@@ -26,10 +26,6 @@ DokiDokiDropDash is not just an app; it's a vibrant anime sorting adventure that
 - **React Beautiful DND:** Adding drag-and-drop magic to make anime sorting a breeze.
 - **AWS & Docker:** Powering up the app with the cloud and containerization for an enhanced experience.
 
-## Contribute 🚀
-
-Ready to sprinkle your magic on DokiDokiDropDash? I am open to contributions! Feel free to open issues, submit pull requests, or simply share your thoughts. Let's make anime sorting even more spectacular together!
-
 ## Spread the Anime Love ❤️
 
 If DokiDokiDropDash brought a smile to your face, don't forget to share the love! Give it a star ⭐️ on GitHub, share with your fellow otaku, and let the sorting fun begin!
